@@ -38,17 +38,14 @@ Open the terminal and navigate to the directory containing witcher_quest.cpp.
 
 Compile the game using the following command:
 
-bash
-Copy code
-g++ witcher_quest.cpp -o witcher_quest
+```g++ witcher_quest.cpp -o witcher_quest```
 Run the game with:
 
-bash
-Copy code
-./witcher_quest
+
+```./witcher_quest```
 Requirements
 C++ Compiler (GCC, Clang, or similar)
 Terminal or Command Prompt
 Credits
-Game Developer: Ammer Saeed
+Game Developer: **Ammer Saeed**
 Inspirations: Pokemon 2000, various puzzle games, and co-op gameplay mechanics.
